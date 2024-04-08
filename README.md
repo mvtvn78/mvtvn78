@@ -4,7 +4,14 @@
 ## 💋 My favorite is learn a new things .
 ## 💀 Slogan : Kaioken !!!
 ## Stack Technology
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,kotlin,nodejs,react&theme=light)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cs,html,css,js,java,kotlin&theme=light" />
+  </a>
+</p>
+[![My Skills](https://skillicons.dev/icons?i=c,cs,html,css,js,java,kotlin&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=bootstrap,nodejs,react&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,jenkins,docker&theme=light)](https://skillicons.dev)
 
 ## 📫 How to reach me:
 * 💋 [Facebook](https://www.facebook.com/sieuphammaitien594)
