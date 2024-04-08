@@ -5,13 +5,12 @@
 ## 💀 Slogan : Kaioken !!!
 # List Technology
 //Programmer
-## Programming Language
 <p align="center">
+  Programming Language
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,cs,html,css,js,java,kotlin&theme=light" />
   </a>
 </p>
-## Programming Language
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=bootstrap,nodejs,react&theme=light" />
