@@ -15,4 +15,5 @@
 ## Tool
 [![My Skills](https://skillicons.dev/icons?i=git,gitlab,jenkins,docker&theme=light)](https://skillicons.dev)
 ## 📫 How to reach me:
-* 💋 [Facebook](https://www.facebook.com/sieuphammaitien594)
+* [2.1]: http://i.imgur.com/P3YfQoD.png (facebook icon with padding)
+* [2]: http://www.facebook.com/sieuphammaitien594
