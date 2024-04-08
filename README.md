@@ -1,18 +1,18 @@
-# Hi there 👋
-## 🙋‍♂️ I'm developer ,from VietNam ![Vietnam](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/vn.png "Vietnam") and codename as Mvt.
-## 💁‍♂️ I am a person who likes to turn complexity into simplicity.
-## 💋 My favorite is learn a new things .
-## 💀 Slogan : Kaioken !!!
-# List Technology
-## Programming Language
+## Hi there 👋
+### 🙋‍♂️ I'm developer ,from VietNam ![Vietnam](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/vn.png "Vietnam") and codename as Mvt.
+### 💁‍♂️ I am a person who likes to turn complexity into simplicity.
+### 💋 My favorite is learn a new things .
+### 💀 Slogan : Kaioken !!!
+## List Technology
+### Programming Language
 [![My Skills](https://skillicons.dev/icons?i=c,cs,html,css,js,java,kotlin&theme=light)](https://skillicons.dev)
-## FrameWork
+### FrameWork
 [![My Skills](https://skillicons.dev/icons?i=bootstrap,nodejs,react&theme=light)](https://skillicons.dev)
-## Database
+### Database
 [![My Skills](https://skillicons.dev/icons?i=mysql,mongodb&theme=light)](https://skillicons.dev)
-## OS
+### OS
 [![My Skills](https://skillicons.dev/icons?i=linux&theme=light)](https://skillicons.dev)
-## Tool
+### Tool
 [![My Skills](https://skillicons.dev/icons?i=git,gitlab,jenkins,docker&theme=light)](https://skillicons.dev)
 ## 📫 How to reach me:
 [Facebook](https://www.facebook.com/sieuphammaitien594)
