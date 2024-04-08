@@ -10,16 +10,13 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,cs,html,css,js,java,kotlin&theme=light" />
   </a>
-</p>
-<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=bootstrap,nodejs,react&theme=light" />
   </a>
-</p>
-<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,jenkins,docker&theme=light" />
   </a>
 </p>
+
 ## 📫 How to reach me:
 * 💋 [Facebook](https://www.facebook.com/sieuphammaitien594)
