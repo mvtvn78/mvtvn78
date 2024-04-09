@@ -17,7 +17,7 @@
 
 ### FrameWork
 
-<p align="center">
+<p align="left">
   <img  src="https://skillicons.dev/icons?i=bootstrap,nodejs,react&theme=light">
 </p>
 
