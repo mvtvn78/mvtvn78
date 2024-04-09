@@ -23,20 +23,20 @@
 
 ### Database
 
-<p align="center">
+<p align="left">
   <img  src="https://skillicons.dev/icons?i=mysql,mongodb&theme=light">
 </p>
 
 ### OS
 
-<p align="center">
+<p align="left">
   <img  src="https://skillicons.dev/icons?i=linux&theme=light">
 </p>
 
 ### Tool
 
-<p align="center">
-  <img  src="https://skillicons.dev/icons?i=git,gitlab,jenkins,docker&theme=light)](https://skillicons.dev">
+<p align="left">
+  <img  src="https://skillicons.dev/icons?i=git,gitlab,jenkins,docker&theme=light">
 </p>
 
 ## 📫 How to reach me:
