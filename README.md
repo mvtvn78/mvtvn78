@@ -16,12 +16,28 @@
 </p>
 
 ### FrameWork
-[![My Skills](https://skillicons.dev/icons?i=bootstrap,nodejs,react&theme=light)](https://skillicons.dev)
+
+<p align="center">
+  <img  src="https://skillicons.dev/icons?i=bootstrap,nodejs,react&theme=light">
+</p>
+
 ### Database
-[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb&theme=light)](https://skillicons.dev)
+
+<p align="center">
+  <img  src="https://skillicons.dev/icons?i=mysql,mongodb&theme=light">
+</p>
+
 ### OS
-[![My Skills](https://skillicons.dev/icons?i=linux&theme=light)](https://skillicons.dev)
+
+<p align="center">
+  <img  src="https://skillicons.dev/icons?i=linux&theme=light">
+</p>
+
 ### Tool
-[![My Skills](https://skillicons.dev/icons?i=git,gitlab,jenkins,docker&theme=light)](https://skillicons.dev)
+
+<p align="center">
+  <img  src="https://skillicons.dev/icons?i=git,gitlab,jenkins,docker&theme=light)](https://skillicons.dev">
+</p>
+
 ## 📫 How to reach me:
 [Facebook](https://www.facebook.com/sieuphammaitien594)
