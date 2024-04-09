@@ -10,7 +10,11 @@
 ### 💀 Slogan : Kaioken !!!
 ## List Technology
 ### Programming Language
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,html,css,js,java,python,kotlin&theme=light)](https://skillicons.dev)
+
+<p align="center">
+  <img  src="https://skillicons.dev/icons?i=c,cpp,cs,html,css,js,java,python,kotlin&theme=light">
+</p>
+
 ### FrameWork
 [![My Skills](https://skillicons.dev/icons?i=bootstrap,nodejs,react&theme=light)](https://skillicons.dev)
 ### Database
