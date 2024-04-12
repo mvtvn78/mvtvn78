@@ -12,7 +12,7 @@
 ### Programming Language
 
 <p align="center">
-  <img  src="https://skillicons.dev/icons?i=c,cpp,cs,html,css,js,php,java,python,kotlin&theme=light">
+  <img  src="https://skillicons.dev/icons?i=c,cpp,cs,html,css,js,php,jquery,java,python,kotlin&theme=light">
 </p>
 
 ### FrameWork
@@ -36,7 +36,7 @@
 ### Tool
 
 <p align="left">
-  <img  src="https://skillicons.dev/icons?i=git,gitlab,jenkins,docker&theme=light">
+  <img  src="https://skillicons.dev/icons?i=git,gitlab,unity,jenkins,docker&theme=light">
 </p>
 
 ## 📫 How to reach me:
