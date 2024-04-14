@@ -12,7 +12,7 @@
 ### Programming Language
 
 <p align="center">
-  <img  src="https://skillicons.dev/icons?i=c,cpp,cs,html,css,js,php,jquery,java,python,kotlin&theme=light">
+  <img  src="https://skillicons.dev/icons?i=c,cpp,cs,html,css,js,php,jquery,java,python,flutter&theme=light">
 </p>
 
 ### FrameWork
