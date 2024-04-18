@@ -12,13 +12,13 @@
 ### Programming Language
 
 <p align="center">
-  <img  src="https://skillicons.dev/icons?i=c,cpp,cs,html,css,js,php,jquery,java,python,flutter&theme=light">
+  <img  src="https://skillicons.dev/icons?i=c,cpp,cs,html,css,js,php,jquery,java,python,dart&theme=light">
 </p>
 
 ### FrameWork
 
 <p align="left">
-  <img  src="https://skillicons.dev/icons?i=bootstrap,nodejs,react&theme=light">
+  <img  src="https://skillicons.dev/icons?i=bootstrap,nodejs,react,flutter&theme=light">
 </p>
 
 ### Database
