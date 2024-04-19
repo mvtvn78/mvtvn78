@@ -36,7 +36,7 @@
 ### Tool
 
 <p align="left">
-  <img  src="https://skillicons.dev/icons?i=git,gitlab,unity,jenkins,wordpress,docker&theme=light">
+  <img  src="https://skillicons.dev/icons?i=git,gitlab,unity,jenkins,docker&theme=light">
 </p>
 
 ## 📫 How to reach me:
