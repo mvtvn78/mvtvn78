@@ -11,7 +11,7 @@
 
 ## List Technology
 <p align="center">
-  <img  src="https://i.gifer.com/7GW5.gif">
+  <img width="42" height="42"  src="https://i.gifer.com/7GW5.gif">
 </p>
 
 
