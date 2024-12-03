@@ -4,13 +4,10 @@
 ### 💀 Slogan : Kaioken !!!
 <div style ="display:inline-block">
   <img width="24" height="24"src="https://github.com/user-attachments/assets/70b4861b-162d-4372-bd3b-6f4ee86643a1">
-</div>
-<a  target="_parent" href ="https://www.facebook.com/sieuphammaitien594">Facebook</a>
-
-<div style ="display:inline-block">
+  <a  target="_parent" href ="https://www.facebook.com/sieuphammaitien594">Facebook</a>
   <img width="24" height="24"src="https://cdn-icons-png.flaticon.com/512/2720/2720550.png">
+  <a  target="_parent" href ="https://mvtvn78.github.io/My_Portfolio/">Portfolio</a>
 </div>
-<a  target="_parent" href ="https://mvtvn78.github.io/My_Portfolio/">Portfolio</a>
 
 ## List Technology
 <p align="center">
