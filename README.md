@@ -10,7 +10,7 @@
 
 ## List Technology
 <p align="center">
-  <img width="200" height="150"  src="https://i.gifer.com/7GW5.gif">
+  <img width="450" height="150"  src="https://i.gifer.com/7GW5.gif">
 </p>
 
 
