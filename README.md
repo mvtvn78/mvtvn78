@@ -3,12 +3,12 @@
 ### 💁‍♂️ I am a person who likes to turn complexity into simplicity.
 ### 💀 Slogan : Kaioken !!!
 <div style ="display:inline-block">
-  <img width="24" height="24" src="https://github.com/user-attachments/assets/70b4861b-162d-4372-bd3b-6f4ee86643a1">
+  <img width="24" height="24" onclick="window.location.assign("https://www.facebook.com/sieuphammaitien594")" src="https://github.com/user-attachments/assets/70b4861b-162d-4372-bd3b-6f4ee86643a1">
   <a href="">
   
 </div>
 
-[](https://www.facebook.com/sieuphammaitien594)
+
 
 
 
